@@ -1,5 +1,5 @@
 cart=[];
-setInterval(()=>{console.log("helllo")},1000);
+
 function renders(){
 
     let s="";

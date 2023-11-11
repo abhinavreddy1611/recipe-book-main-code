@@ -41,7 +41,7 @@ body{
 }
 .contents{
     margin-top: 7px;
-    background-color: white;
+    background-color: rgb(176, 176, 176);
     width:900px;
     justify-content: center;
     height:1000px;
