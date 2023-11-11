@@ -56,6 +56,12 @@ body{
     height: 30px;
     border: none;
     font-weight: bold;
+    transition: 0.3s;
+
+}
+.recipe-adder:hover {
+    cursor:pointer;
+    width:200px;
 }
 .input-box{
     height:50px;
