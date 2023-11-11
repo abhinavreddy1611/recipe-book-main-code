@@ -105,4 +105,10 @@ border-top: none;
 body{
     background-image: url("platter-2009590.jpg");
     background-size:1000px;
+    
+}
+.temp{
+    background-color: black;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
