@@ -40,7 +40,7 @@ body{
     
 }
 .contents{
-    margin-top: 20px;
+    margin-top: 7px;
     background-color: white;
     width:900px;
     justify-content: center;
@@ -101,4 +101,8 @@ border-top: none;
 }
 .Delete-Button{
 
+}
+body{
+    background-image: url("platter-2009590.jpg");
+    background-size:1000px;
 }
